@@ -19,6 +19,5 @@ int main(){
         printf("%d is  prime",n1);
     }
 
-
 return 0;
 }
